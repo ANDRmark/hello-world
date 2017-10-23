@@ -1,0 +1,33 @@
+D:\ANDYnewwork\Study\Local projects (D)\HelloWorld asp net core\HelloWorld asp net core\bin\Debug\netcoreapp2.0\HelloWorld asp net core.deps.json
+D:\ANDYnewwork\Study\Local projects (D)\HelloWorld asp net core\HelloWorld asp net core\bin\Debug\netcoreapp2.0\HelloWorld asp net core.runtimeconfig.json
+D:\ANDYnewwork\Study\Local projects (D)\HelloWorld asp net core\HelloWorld asp net core\bin\Debug\netcoreapp2.0\HelloWorld asp net core.runtimeconfig.dev.json
+D:\ANDYnewwork\Study\Local projects (D)\HelloWorld asp net core\HelloWorld asp net core\bin\Debug\netcoreapp2.0\HelloWorld asp net core.dll
+D:\ANDYnewwork\Study\Local projects (D)\HelloWorld asp net core\HelloWorld asp net core\bin\Debug\netcoreapp2.0\HelloWorld asp net core.pdb
+D:\ANDYnewwork\Study\Local projects (D)\HelloWorld asp net core\HelloWorld asp net core\obj\Debug\netcoreapp2.0\HelloWorld asp net core.csprojResolveAssemblyReference.cache
+D:\ANDYnewwork\Study\Local projects (D)\HelloWorld asp net core\HelloWorld asp net core\obj\Debug\netcoreapp2.0\HelloWorld asp net core.csproj.CoreCompileInputs.cache
+D:\ANDYnewwork\Study\Local projects (D)\HelloWorld asp net core\HelloWorld asp net core\obj\Debug\netcoreapp2.0\HelloWorld asp net core.AssemblyInfoInputs.cache
+D:\ANDYnewwork\Study\Local projects (D)\HelloWorld asp net core\HelloWorld asp net core\obj\Debug\netcoreapp2.0\HelloWorld asp net core.AssemblyInfo.cs
+D:\ANDYnewwork\Study\Local projects (D)\HelloWorld asp net core\HelloWorld asp net core\obj\Debug\netcoreapp2.0\HelloWorld asp net core.dll
+D:\ANDYnewwork\Study\Local projects (D)\HelloWorld asp net core\HelloWorld asp net core\obj\Debug\netcoreapp2.0\HelloWorld asp net core.pdb
+C:\Users\Andr9\OneDrive\Документы\Course 3.1\Стажировка\projects\HelloWorld asp net core\HelloWorld asp net core\bin\Debug\netcoreapp2.0\HelloWorld asp net core.deps.json
+C:\Users\Andr9\OneDrive\Документы\Course 3.1\Стажировка\projects\HelloWorld asp net core\HelloWorld asp net core\bin\Debug\netcoreapp2.0\HelloWorld asp net core.runtimeconfig.json
+C:\Users\Andr9\OneDrive\Документы\Course 3.1\Стажировка\projects\HelloWorld asp net core\HelloWorld asp net core\bin\Debug\netcoreapp2.0\HelloWorld asp net core.runtimeconfig.dev.json
+C:\Users\Andr9\OneDrive\Документы\Course 3.1\Стажировка\projects\HelloWorld asp net core\HelloWorld asp net core\bin\Debug\netcoreapp2.0\HelloWorld asp net core.dll
+C:\Users\Andr9\OneDrive\Документы\Course 3.1\Стажировка\projects\HelloWorld asp net core\HelloWorld asp net core\bin\Debug\netcoreapp2.0\HelloWorld asp net core.pdb
+C:\Users\Andr9\OneDrive\Документы\Course 3.1\Стажировка\projects\HelloWorld asp net core\HelloWorld asp net core\obj\Debug\netcoreapp2.0\HelloWorld asp net core.csprojResolveAssemblyReference.cache
+C:\Users\Andr9\OneDrive\Документы\Course 3.1\Стажировка\projects\HelloWorld asp net core\HelloWorld asp net core\obj\Debug\netcoreapp2.0\HelloWorld asp net core.csproj.CoreCompileInputs.cache
+C:\Users\Andr9\OneDrive\Документы\Course 3.1\Стажировка\projects\HelloWorld asp net core\HelloWorld asp net core\obj\Debug\netcoreapp2.0\HelloWorld asp net core.AssemblyInfoInputs.cache
+C:\Users\Andr9\OneDrive\Документы\Course 3.1\Стажировка\projects\HelloWorld asp net core\HelloWorld asp net core\obj\Debug\netcoreapp2.0\HelloWorld asp net core.AssemblyInfo.cs
+C:\Users\Andr9\OneDrive\Документы\Course 3.1\Стажировка\projects\HelloWorld asp net core\HelloWorld asp net core\obj\Debug\netcoreapp2.0\HelloWorld asp net core.dll
+C:\Users\Andr9\OneDrive\Документы\Course 3.1\Стажировка\projects\HelloWorld asp net core\HelloWorld asp net core\obj\Debug\netcoreapp2.0\HelloWorld asp net core.pdb
+C:\Users\Andr9\Documents\Visual Studio 2017\Projects\HelloWorld asp net core\HelloWorld asp net core\bin\Debug\netcoreapp2.0\HelloWorld asp net core.deps.json
+C:\Users\Andr9\Documents\Visual Studio 2017\Projects\HelloWorld asp net core\HelloWorld asp net core\bin\Debug\netcoreapp2.0\HelloWorld asp net core.runtimeconfig.json
+C:\Users\Andr9\Documents\Visual Studio 2017\Projects\HelloWorld asp net core\HelloWorld asp net core\bin\Debug\netcoreapp2.0\HelloWorld asp net core.runtimeconfig.dev.json
+C:\Users\Andr9\Documents\Visual Studio 2017\Projects\HelloWorld asp net core\HelloWorld asp net core\bin\Debug\netcoreapp2.0\HelloWorld asp net core.dll
+C:\Users\Andr9\Documents\Visual Studio 2017\Projects\HelloWorld asp net core\HelloWorld asp net core\bin\Debug\netcoreapp2.0\HelloWorld asp net core.pdb
+C:\Users\Andr9\Documents\Visual Studio 2017\Projects\HelloWorld asp net core\HelloWorld asp net core\obj\Debug\netcoreapp2.0\HelloWorld asp net core.csprojResolveAssemblyReference.cache
+C:\Users\Andr9\Documents\Visual Studio 2017\Projects\HelloWorld asp net core\HelloWorld asp net core\obj\Debug\netcoreapp2.0\HelloWorld asp net core.csproj.CoreCompileInputs.cache
+C:\Users\Andr9\Documents\Visual Studio 2017\Projects\HelloWorld asp net core\HelloWorld asp net core\obj\Debug\netcoreapp2.0\HelloWorld asp net core.AssemblyInfoInputs.cache
+C:\Users\Andr9\Documents\Visual Studio 2017\Projects\HelloWorld asp net core\HelloWorld asp net core\obj\Debug\netcoreapp2.0\HelloWorld asp net core.AssemblyInfo.cs
+C:\Users\Andr9\Documents\Visual Studio 2017\Projects\HelloWorld asp net core\HelloWorld asp net core\obj\Debug\netcoreapp2.0\HelloWorld asp net core.dll
+C:\Users\Andr9\Documents\Visual Studio 2017\Projects\HelloWorld asp net core\HelloWorld asp net core\obj\Debug\netcoreapp2.0\HelloWorld asp net core.pdb

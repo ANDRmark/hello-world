@@ -1,0 +1,22 @@
+its Information  Request starting HTTP/1.1 GET http://localhost:50114/  
+its Information  Request finished in 98.992ms 200 text/html; charset=utf-8
+its Information  Request starting HTTP/1.1 GET http://localhost:50114/favicon.ico  
+its Information  Request finished in 22.9978ms 403 
+its Information  Request starting HTTP/1.1 GET http://localhost:50114/sdf?token=5  
+its Information  Request finished in 10.388ms 200 
+its Information  Request starting HTTP/1.1 GET http://localhost:50114/favicon.ico  
+its Information  Request finished in 2.4151ms 403 
+its Information  Request starting HTTP/1.1 GET http://localhost:50114/sdf?token=5  
+its Information  Request finished in 5.2514ms 200 
+its Information  Request starting HTTP/1.1 GET http://localhost:50114/favicon.ico  
+its Information  Request finished in 3.106ms 403 
+its Information  Request starting HTTP/1.1 GET http://localhost:50114/sdf?token=5  
+its Warning   Request on  /sdf adn x = 3
+its Information  Request finished in 7.7154ms 200 
+its Information  Request starting HTTP/1.1 GET http://localhost:50114/favicon.ico  
+its Information  Request finished in 1.4914ms 403 
+its Information  Request starting HTTP/1.1 GET http://localhost:50114/sdf?token=5  
+its Warning   Request on  /sdf adn x = 4
+its Information  Request finished in 3.6142ms 200 
+its Information  Request starting HTTP/1.1 GET http://localhost:50114/favicon.ico  
+its Information  Request finished in 2.1963ms 403 

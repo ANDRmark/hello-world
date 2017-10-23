@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2002
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld asp net core", "HelloWorld asp net core\HelloWorld asp net core.csproj", "{2D5377F8-A93E-42FB-A762-55941FDAD311}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D5377F8-A93E-42FB-A762-55941FDAD311}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D5377F8-A93E-42FB-A762-55941FDAD311}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D5377F8-A93E-42FB-A762-55941FDAD311}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D5377F8-A93E-42FB-A762-55941FDAD311}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0F43C1A2-84A9-42AC-ABD4-14BC6E2CB964}
+	EndGlobalSection
+EndGlobal
